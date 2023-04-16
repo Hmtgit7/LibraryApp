@@ -40,6 +40,7 @@
 }
 .nav-link{
     transition: var(--transition);
+    cursor: pointer;
 }
 .nav-link:hover{
     color: var(--purple-color);
